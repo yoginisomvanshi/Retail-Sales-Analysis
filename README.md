@@ -1,1 +1,2 @@
 # Retail-Sales-Analysis
+Utilized Power BI to create a robust retail dashboard, Identified areas for improvement, pinpointing underperforming products and regions with decreased sales to optimize strategies. Leveraged historical sales data to recognize trends, best-selling products, and revenue-generating states, empowering informed future planning. This comprehensive dashboard facilitated a holistic view of sales, revenue, product orders, customer preferences aiding in better decision-making and cohesive strategic planning.
